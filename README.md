@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Dokja620/Dokja620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m a student of SAYNA. It's a digital school to learn all digital jobs I guess
 - 🌱 I’m currently learning pretty much everythingn, I just started sooo... 
 - 👯 I love reading books and learning new things. I hope that this new adventure will... be... fabulous
