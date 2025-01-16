@@ -8,17 +8,17 @@ I'm a full-stack indie developer and entrepreneur from Madagascar, driven by a m
 
 ### 🧰 My tech stack
 
-<img style="padding-right: 10px" src="img/001.png"/>
-<img style="padding-right: 10px" src="img/002.png"/>
-<img style="padding-right: 10px" src="img/003.png"/>
-<img style="padding-right: 10px" src="img/004.png"/>
-<img style="padding-right: 10px" src="img/011.png"/>
-<img style="padding-right: 10px" src="img/005.png"/>
-<img style="padding-right: 10px" src="img/006.png"/>
-<img style="padding-right: 10px" src="img/007.png"/>
-<img style="padding-right: 10px" src="img/008.png"/>
-<img style="padding-right: 10px" src="img/009.png"/>
-<img style="padding-right: 10px" src="img/010.png"/>
-<img style="padding-right: 10px" src="img/012.png"/>
+<img align="left" style="padding-right: 10px" src="img/001.png"/>
+<img align="left" style="padding-right: 10px" src="img/002.png"/>
+<img align="left" style="padding-right: 10px" src="img/003.png"/>
+<img align="left" style="padding-right: 10px" src="img/004.png"/>
+<img align="left" style="padding-right: 10px" src="img/011.png"/>
+<img align="left" style="padding-right: 10px" src="img/005.png"/>
+<img align="left" style="padding-right: 10px" src="img/006.png"/>
+<img align="left" style="padding-right: 10px" src="img/007.png"/>
+<img align="left" style="padding-right: 10px" src="img/008.png"/>
+<img align="left" style="padding-right: 10px" src="img/009.png"/>
+<img align="left" style="padding-right: 10px" src="img/010.png"/>
+<img align="left" style="padding-right: 10px" src="img/012.png"/>
 
 <br/>
