@@ -1,4 +1,4 @@
-<a href="https://diary.mg"><img src="img/terminal.svg" alt="whoami: Diary Axel RAKOTOARIVAO, developer in Antananarivo. Shipping: Linksy, MadaRent, rugen, GENO Smart, Ohayo Prepa." width="100%"></a>
+<a href="https://diary.mg"><img src="img/terminal.svg" alt="whoami: Diary Axel RAKOTOARIVAO, developer in Antananarivo. Shipping: Linksy, MadaRent, rugen, HogLens, Ohayo Prepa." width="100%"></a>
 
 **Developer in Antananarivo.** I build products end to end: the Flutter app, the SvelteKit site, the Rust engine underneath, and the servers they run on.
 
@@ -15,8 +15,6 @@
 ## Also live
 
 <img src="img/logo-ohayoprepa.png" width="20" align="top" alt=""> &nbsp;**Ohayo Prepa**, pass the BAC with 20 minutes a day. [ohayoprepa.mg](https://ohayoprepa.mg)
-
-<img src="img/logo-geno.png" width="20" align="top" alt=""> &nbsp;**GENO Smart**, the GENORING X3 health ring app, built for Genopuzzle. [Google Play](https://play.google.com/store/apps/details?id=smart.genoring.app)
 
 <img src="img/logo-hoglens.png" width="20" align="top" alt=""> &nbsp;**HogLens**, PostHog on your phone, with a home-screen widget. [Download](https://github.com/Diary-Axel-RAKOTOARIVAO/hoglens-releases/releases/latest)
 
