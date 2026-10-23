@@ -1,4 +1,4 @@
-<a href="https://diary.mg"><img src="img/banner.jpg" alt="Diary Axel RAKOTOARIVAO, developer" width="100%"></a>
+<a href="https://diary.mg"><img src="img/banner.jpg" alt="Diary Axel RAKOTOARIVAO, developer, diary.mg" width="100%"></a>
 
 **Developer in Antananarivo, Madagascar.** I build products end to end: the Flutter app, the SvelteKit or Astro site, the Rust engine underneath when it needs one, and the servers they run on. Most of what's below is live and used every day.
 
