@@ -6,18 +6,65 @@
 
 ## What I'm building
 
-| Project | What it is | Where |
-|---|---|---|
-| **MadaRent** | Find a rental in Madagascar: verified listings by neighbourhood, map, alerts. Web and Android on one API, about 15,000 visitors a month. | [madarent.mg](https://madarent.mg) · [Android](https://madarent.mg/application) |
-| **rugen** | A M.U.G.E.N-compatible 2D fighting game engine in Rust, with rollback netplay and a self-hosted hub that holds about 1,250 players on one CPU. | [rugen.dev](https://rugen.dev) · [code](https://github.com/rugen-dev/rugen-engine) |
-| **Ohayo Prepa** | Pass the BAC and entrance exams with 20 minutes a day: timed mock exams, auto-correction, AI-predicted subjects. | [ohayoprepa.mg](https://ohayoprepa.mg) |
-| **GENO Smart** | Flutter app for the GENORING X3 health ring, built for Genopuzzle: sleep, HRV, blood oxygen and a voice AI coach, over a pure Dart Bluetooth protocol. | [Google Play](https://play.google.com/store/apps/details?id=smart.genoring.app) |
-| **Linksy** | Your devices, connected over the local network with no account and no cloud. Rust core (QUIC, mDNS) shared by the Linux and Android apps. | [releases](https://github.com/LinkSy-mg/linksy-releases/releases/latest) |
-| **HogLens** | All your PostHog projects on your phone, with an Android home-screen widget. | [releases](https://github.com/Diary-Axel-RAKOTOARIVAO/hoglens-releases/releases/latest) |
-| **1% Daily** | One money goal, 3 priorities a day, 3 results a week. Data stays on the phone. | [releases](https://github.com/1-percent-daily/public-app-release/releases/latest) |
-| **Tantana** | HR, payroll and accounting for Malagasy SMEs, with IRSA, CNaPS and OSTIE built in. | [tantana.ohayoprepa.mg](https://tantana.ohayoprepa.mg) |
-| **Vivace** | CSS animations driven by HTML attributes. 18 keys, 5 triggers, zero dependencies. | [usevivace.dev](https://usevivace.dev) · [code](https://github.com/Diary-Axel-RAKOTOARIVAO/vivace) |
-| **Screenshift** | Responsive containers and a debug overlay in one SCSS attribute. | [npm](https://www.npmjs.com/package/screenshift) · [code](https://github.com/Dokja620/screenshift) |
+### Linksy
+
+Your devices, connected over the local network with no account and no cloud. Rust core (QUIC, mDNS) shared by the Linux and Android apps.
+
+[Download](https://github.com/LinkSy-mg/linksy-releases/releases/latest)
+
+### MadaRent
+
+Find a rental in Madagascar: verified listings by neighbourhood, map, alerts. Web and Android on one API, about 15,000 visitors a month.
+
+[madarent.mg](https://madarent.mg) &nbsp;·&nbsp; [Android](https://madarent.mg/application)
+
+### rugen
+
+A M.U.G.E.N-compatible 2D fighting game engine in Rust, with rollback netplay and a self-hosted hub that holds about 1,250 players on one CPU.
+
+[rugen.dev](https://rugen.dev) &nbsp;·&nbsp; [Source code](https://github.com/rugen-dev/rugen-engine)
+
+### Ohayo Prepa
+
+Pass the BAC and entrance exams with 20 minutes a day: timed mock exams, auto-correction, AI-predicted subjects.
+
+[ohayoprepa.mg](https://ohayoprepa.mg)
+
+### GENO Smart
+
+Flutter app for the GENORING X3 health ring, built for Genopuzzle: sleep, HRV, blood oxygen and a voice AI coach, over a pure Dart Bluetooth protocol.
+
+[Google Play](https://play.google.com/store/apps/details?id=smart.genoring.app)
+
+### HogLens
+
+All your PostHog projects on your phone, with an Android home-screen widget.
+
+[Download](https://github.com/Diary-Axel-RAKOTOARIVAO/hoglens-releases/releases/latest)
+
+### 1% Daily
+
+One money goal, 3 priorities a day, 3 results a week. Data stays on the phone.
+
+[Download](https://github.com/1-percent-daily/public-app-release/releases/latest)
+
+### Tantana
+
+HR, payroll and accounting for Malagasy SMEs, with IRSA, CNaPS and OSTIE built in.
+
+[tantana.ohayoprepa.mg](https://tantana.ohayoprepa.mg)
+
+### Vivace
+
+CSS animations driven by HTML attributes. 18 keys, 5 triggers, zero dependencies.
+
+[usevivace.dev](https://usevivace.dev) &nbsp;·&nbsp; [Source code](https://github.com/Diary-Axel-RAKOTOARIVAO/vivace)
+
+### Screenshift
+
+Responsive containers and a debug overlay in one SCSS attribute.
+
+[npm](https://www.npmjs.com/package/screenshift) &nbsp;·&nbsp; [Source code](https://github.com/Dokja620/screenshift)
 
 ## What I build with
 
