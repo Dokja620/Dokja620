@@ -1,4 +1,4 @@
-<a href="https://diary.mg"><img src="img/terminal.svg" alt="whoami: Diary Axel RAKOTOARIVAO, developer in Antananarivo. Shipping: Linksy, MadaRent, rugen, HogLens, Ohayo Prepa." width="100%"></a>
+<a href="https://diary.mg"><img src="img/terminal-v2.svg" alt="whoami: Diary Axel RAKOTOARIVAO, developer in Antananarivo. Shipping: Linksy, MadaRent, rugen, HogLens, Ohayo Prepa." width="100%"></a>
 
 **Developer in Antananarivo.** I build products end to end: the Flutter app, the SvelteKit site, the Rust engine underneath, and the servers they run on.
 
